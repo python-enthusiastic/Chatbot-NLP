@@ -1,0 +1,90 @@
+Hello there!|Greeting|Hello! How can I assist you today?
+Hey, chatbot!|Greeting|Hello there! How can I assist you with your leave request?
+I need to request personal leave.|Request|Certainly! Please provide the start date and the reason for your personal leave request.
+I'd like to take a day off for my child's school event.|Request|That's important! Please specify the date and the details of your child's school event.
+How many vacation days do I have left?|Query|I can check your remaining vacation days. Please provide your employee ID or username.
+What's the process for requesting bereavement leave?|Query|Requesting bereavement leave is sensitive. Please provide the details, and I'll explain the process.
+I'd like to change my phone number for contact purposes.|Action|Of course! Let's update your phone number. Please provide the new phone number.
+Can you assist me in rescheduling my upcoming leave?|Action|Certainly! Please provide the current leave details and the new dates you have in mind.
+You're doing a great job!|Closing|Thank you! I'm here to help. If you have more questions, feel free to ask. Have a wonderful day!
+Take care!|Closing|Goodbye! Take care, and remember, I'm here whenever you need assistance. Have a fantastic day!
+Hello, bot!|Greeting|Hello! How can I assist you with your leave-related queries?
+I need to request a leave for a family emergency.|Request|I'm sorry to hear that. Please provide the start date and details related to your family emergency leave request.
+I want to apply for educational leave.|Request|That's commendable! Please specify the course, duration, and any necessary documents for your educational leave request.
+Can you provide information about the company's holiday calendar?|Query|Certainly! I can share the company's holiday calendar with you. Would you like me to do that?
+Is it possible to take half-day leave?|Query|Yes, you can request half-day leave. Please provide the date and whether it's in the morning or afternoon.
+I'd like to change my direct deposit details.|Action|Sure, let's update your direct deposit information. Please provide the new details.
+Could you help me with a leave cancellation?|Action|Of course! Please provide the leave request ID or the details of the request you want to cancel.
+Thank you for your assistance today!|Closing|You're very welcome! If you have more questions in the future, feel free to reach out. Have a fantastic day!
+Goodbye, and have a great day!|Closing|Goodbye! If you ever need assistance again, don't hesitate to contact me. Have a wonderful day!
+Greetings, chatbot!|Greeting|Hello there! How can I assist you today?
+I'm interested in taking a long vacation. Can you guide me through it?|Query|Certainly! Taking a long vacation requires some planning. Please provide the details, and I'll help you get started.
+I need to request jury duty leave.|Request|Of course! Please provide the start date and any documentation related to your jury duty leave request.
+I want to take a day off to volunteer for a charity event.|Request|That's admirable! Please specify the date and the charity event you'd like to volunteer for.
+What's the policy for sick leave documentation?|Query|The policy for sick leave documentation varies. Please provide more details, and I'll explain the requirements.
+I'd like to change my emergency contact person.|Action|Sure thing! Let's update your emergency contact information. Please provide the new contact details.
+Can you assist me in extending my vacation leave?|Action|Certainly! Please provide the current end date and the new end date for your extended vacation leave.
+Thanks for all your help and support!|Closing|You're very welcome! If you have more questions or need assistance in the future, don't hesitate to ask. Have a fantastic day!
+Farewell, and take care!|Closing|Goodbye! Take care, and remember, I'm here whenever you need assistance. Have a wonderful day!
+Hi there!|Greeting|Hello! How can I assist you today?
+I need to request a leave for my child's graduation.|Request|Congratulations to your child! Please provide the graduation date and any required documentation.
+I want to take a day off for a personal milestone celebration.|Request|That's wonderful! Please specify the date and the nature of the milestone celebration.
+Can you explain the process for requesting remote work during leave?|Query|Certainly! Requesting remote work during leave involves certain steps. Please provide more details, and I'll guide you through it.
+Is there a limit to the number of days I can take off in a row?|Query|There may be a limit depending on company policy. Please provide more information, and I'll clarify.
+I'd like to update my emergency evacuation location.|Action|Sure, let's update your emergency evacuation location. Please provide the new details.
+Can you help me with a leave of absence extension?|Action|Of course! Please provide the current end date and the new end date for your leave of absence extension.
+Your assistance has been invaluable!|Closing|Thank you! I'm here to assist. If you have more questions in the future, feel free to reach out. Have a wonderful day!
+Goodbye for now, and best wishes!|Closing|Goodbye! If you ever need assistance again, don't hesitate to contact me. Have a fantastic day!
+Hello there!|Greeting|Hello! How can I assist you today?
+Hi, chatbot!|Greeting|Hi! How can I assist you with your leave request?
+I need to request military leave.|Request|Thank you for your service. Please provide the start date and any necessary documentation for your military leave request.
+I want to take a sabbatical leave.|Request|That's great! Sabbatical leaves are exciting. Please specify the duration and purpose of your sabbatical leave.
+How can I view my leave history?|Query|You can access your leave history in your employee portal. If you need help with it, feel free to ask me.
+Is leave without pay possible?|Query|Yes, leave without pay is an option. Please provide the reason and duration for your leave without pay request.
+I'd like to change my emergency contact information.|Action|Sure thing! I can guide you through updating your emergency contact information. Please provide your desired changes.
+Can you remind me of my upcoming leave dates?|Action|Of course! I'll send you a reminder of your upcoming leave dates to your registered email address.
+Thanks for all your help!|Closing|You're very welcome! If you have any more questions or need assistance in the future, just let me know. Have a wonderful day!
+Farewell for now!|Closing|Goodbye! If you ever need assistance again, feel free to reach out. Have a fantastic day!
+Hey bot!|Greeting|Hello there! How can I assist you today?
+Good day!|Greeting|Good day! How can I help you with your leave-related queries?
+I need to request a leave of absence.|Request|Certainly! Please provide the start date and the reason for your leave of absence.
+I'd like to apply for study leave.|Request|Education is important! Please specify the course, duration, and any supporting documents for your study leave request.
+Can you explain the accrual rate for vacation leave?|Query|Sure, the accrual rate for vacation leave is [rate]. Would you like to know more about how it works?
+How do I submit a leave request on the portal?|Query|I can guide you through the process. Please specify the type of leave and desired dates.
+I need to upload my medical certificate for sick leave.|Action|Great! Please upload the medical certificate, and I'll make sure it's processed for your sick leave request.
+Can you help me find a substitute for my shift during my leave?|Action|Certainly! I'll assist you in finding a substitute for your shift during your leave. Please provide the details.
+Appreciate your assistance!|Closing|You're appreciated too! If you ever have more questions, don't hesitate to reach out. Have a fantastic day!
+Until next time!|Closing|Goodbye for now! If you need assistance in the future, remember, I'm just a message away. Have a wonderful day!
+Hi, chatbot assistant!|Greeting|Hello! How can I assist you today with your leave request?
+Good evening, bot!|Greeting|Good evening! How can I help you with your leave-related queries?
+I need to request compassionate leave.|Request|I'm sorry to hear that. Please provide the start date and details related to your compassionate leave request.
+I want to apply for unpaid family leave.|Request|Understood! Please specify the duration and the reason for your unpaid family leave request.
+What's the policy on carrying over unused vacation days?|Query|The policy allows carrying over [number] unused vacation days. Need more details on this?
+Is it possible to split my vacation days into multiple periods?|Query|Yes, you can split your vacation days. Please provide the dates and durations for each period.
+I'd like to change my primary contact information.|Action|Certainly! Let's update your primary contact information. Please provide the changes you want to make.
+Please remind me of my leave request status.|Action|I'll check the status of your leave request and send you an update shortly.
+Thanks for all your help today!|Closing|You're very welcome! If you have any more questions or need assistance in the future, don't hesitate to ask. Have a fantastic day!
+Goodbye and take care!|Closing|Goodbye! Take care, and remember, I'm here whenever you need assistance. Have a wonderful day!
+Greetings!|Greeting|Hello! How can I assist you today?
+Hey there!|Greeting|Hi! How can I assist you with your leave request?
+I need to request a leave for my wedding.|Request|Congratulations! Please provide the wedding date and any documentation you may have.
+I want to take a day off for a family event.|Request|Of course! Please specify the date and the nature of the family event.
+What's the process for requesting unpaid leave?|Query|Requesting unpaid leave involves [process]. Would you like me to guide you through it?
+How many paid holidays do we have this year?|Query|We have a total of [number] paid holidays this year. Would you like to know the specific dates?
+I'd like to change my email address for notifications.|Action|Sure, let's update your email address. Please provide the new email address.
+Can you help me cancel my leave request?|Action|Certainly! Please provide the leave request ID or the details of the request you want to cancel.
+I see that you'd like the responses in the format "response|category|input" as shown. Here are the responses you provided in that format:
+
+```txt
+Hello there!|Greeting|Hi! How can I assist you with your leave request?
+I need to request a leave for a family event.|Request|Of course! Please specify the date and the nature of the family event.
+How many paid holidays do we have this year?|Query|We have a total of [number] paid holidays this year. Would you like to know the specific dates?
+Can you help me cancel my leave request?|Action|Certainly! Please provide the leave request ID or the details of the request you want to cancel.
+Farewell for now!|Closing|Goodbye! Take care, and remember, I'm here whenever you need assistance. Have a wonderful day!
+```
+
+Each line represents a response, followed by its category, and then an example input that might trigger that response. If you need further adjustments or have more responses in this format, please let me know.
+
+How can I contact your support team?|Contact Number|You can reach our support team at [contact number].
+
+Where can I find general information about your company?|General Information|For general information, you can visit our website at [website URL].
